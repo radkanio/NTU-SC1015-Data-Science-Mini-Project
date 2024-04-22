@@ -4,7 +4,7 @@
 This project aims to predict flight delays using various machine learning techniques, leveraging a dataset from the US Department of Transportation. The prediction task involves classifying flights as delayed or not based on factors such as departure time, airport, and airline. The project follows a structured approach including data extraction, manipulation, cleaning, exploratory data analysis (EDA), model building, and conclusion.
 
 ### Note
-The dataset we used was very heavy so we could only upload the zip files we mainly used (see folder 'temp'). The preliminary csv files could just be directly downloaded from Kaggle.
+The preliminary csv's we used can be found in the link below(there were too much before we compiled, so github did not allow us to upload them all). You can see the main csv files we used in the google drive here (https://drive.google.com/drive/folders/1drJMdo4-1klXYdzWG9EHwledGYfsG2_4?usp=sharing).
 
 ### Contributors
 - **Komiya Reiki**: Data Extraction, Data Cleaning and Preprocessing, Random Forest
